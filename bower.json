@@ -1,0 +1,13 @@
+{
+  "name": "legacy-angular",
+  "version": "1.0.1",
+  "authors": [
+    "cbier90@gmail.com"
+  ],
+  "description": "Old version of AngularJS",
+  "main": "angular-1.0.1.js",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT"
+}

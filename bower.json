@@ -1,11 +1,11 @@
 {
   "name": "legacy-angular",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "cbier90@gmail.com"
   ],
-  "description": "Old version of AngularJS",
-  "main": "angular-1.0.1.js",
+  "description": "Old versions of AngularJS",
+  "main": "angular.js",
   "keywords": [
     "AngularJS"
   ],
